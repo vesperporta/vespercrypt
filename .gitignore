@@ -3,3 +3,5 @@ input/*
 output/*
 restore/*
 venv/*
+__pycache__/*
+*.pyc
