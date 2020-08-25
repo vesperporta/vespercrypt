@@ -1,0 +1,1417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"detai",
+				"detail_files\tstatement"
+			],
+			[
+				"is",
+				"is_file"
+			],
+			[
+				"app",
+				"append\tfunction"
+			],
+			[
+				"enc",
+				"encrypt_location\tfunction"
+			],
+			[
+				"a",
+				"alphabets\tstatement"
+			],
+			[
+				"text",
+				"text_value\tstatement"
+			],
+			[
+				"byte",
+				"byte_length\tstatement"
+			],
+			[
+				"file",
+				"file_length\tstatement"
+			],
+			[
+				"ex",
+				"exists\tfunction"
+			],
+			[
+				"key",
+				"key_down\tparam"
+			],
+			[
+				"FPS",
+				"FPS_MAX\tstatement"
+			],
+			[
+				"bou",
+				"bound_time\tstatement"
+			],
+			[
+				"po",
+				"posture\tstatement"
+			],
+			[
+				"Body",
+				"BodyVector\tclass"
+			],
+			[
+				"fin",
+				"find_name"
+			],
+			[
+				"binding",
+				"binding_down\tfunction"
+			],
+			[
+				"hash",
+				"hash_generate\tfunction"
+			],
+			[
+				"npc",
+				"npc_prefix\tstatement"
+			],
+			[
+				"np",
+				"npc_prefix\tstatement"
+			],
+			[
+				"erro",
+				"error_type\tparam"
+			],
+			[
+				"bind",
+				"bind_keys\tfunction"
+			],
+			[
+				"bind_",
+				"bind_class\tfunction"
+			],
+			[
+				"ready",
+				"ready_to"
+			],
+			[
+				"contain",
+				"container"
+			],
+			[
+				"form",
+				"format\tfunction"
+			],
+			[
+				"relo",
+				"reloader\tstatement"
+			],
+			[
+				"q",
+				"quantity_max"
+			],
+			[
+				"reload",
+				"reloadable"
+			],
+			[
+				"action",
+				"action_frames"
+			],
+			[
+				"amoun",
+				"amount_draw"
+			],
+			[
+				"eas",
+				"ease_mult_cap\tfunction"
+			],
+			[
+				"find",
+				"find_functions"
+			],
+			[
+				"pack",
+				"pack_loc\tstatement"
+			],
+			[
+				"read",
+				"ready_to\tstatement"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"_a",
+				"_act_reload\tfunction"
+			],
+			[
+				"cont",
+				"contains"
+			],
+			[
+				"hand",
+				"handle\tfunction"
+			],
+			[
+				"inter",
+				"interactions\tstatement"
+			],
+			[
+				"tim",
+				"time_binding"
+			],
+			[
+				"Player",
+				"PlayerCharacter\tclass"
+			],
+			[
+				"stat",
+				"staticmethod\tclass"
+			],
+			[
+				"bin",
+				"_binding_count\tfunction"
+			],
+			[
+				"g",
+				"gc"
+			],
+			[
+				"inte",
+				"interaction\tparam"
+			],
+			[
+				"char",
+				"character"
+			],
+			[
+				"Object",
+				"ObjectItem"
+			],
+			[
+				"Objec",
+				"ObjectItem\tclass"
+			],
+			[
+				"has",
+				"hasattr\tfunction"
+			],
+			[
+				"function",
+				"function_name\tstatement"
+			],
+			[
+				"interaction",
+				"interaction_affects\tfunction"
+			],
+			[
+				"Charac",
+				"CharacterHandler\tclass"
+			],
+			[
+				"l",
+				"location"
+			],
+			[
+				"pre",
+				"pre_booking\tparam"
+			],
+			[
+				"val",
+				"validated_data\tparam"
+			],
+			[
+				"email",
+				"email_template_form\tfunction"
+			],
+			[
+				"clea",
+				"cleaned_data"
+			],
+			[
+				"html",
+				"html_field\tparam"
+			],
+			[
+				"resul",
+				"results_list"
+			],
+			[
+				"prop",
+				"prop_list\tstatement"
+			],
+			[
+				"lang",
+				"lang_list\tstatement"
+			],
+			[
+				"proper",
+				"property_list\tstatement"
+			],
+			[
+				"place",
+				"placeholder_score"
+			],
+			[
+				"foot",
+				"footer_result\tstatement"
+			],
+			[
+				"body",
+				"body_result\tstatement"
+			],
+			[
+				"sub",
+				"subject_result\tstatement"
+			],
+			[
+				"known",
+				"known_keys\tstatement"
+			],
+			[
+				"templa",
+				"template_name\tparam"
+			],
+			[
+				"ema",
+				"email_placeholders\tstatement"
+			],
+			[
+				"memb",
+				"member_id"
+			],
+			[
+				"exc",
+				"except"
+			],
+			[
+				"return",
+				"return_value"
+			],
+			[
+				"wait",
+				"wait_list\tfunction"
+			],
+			[
+				"ev",
+				"event_date"
+			],
+			[
+				"job",
+				"job_type\tstatement"
+			],
+			[
+				"site",
+				"site_settings"
+			],
+			[
+				"vali",
+				"validated_data"
+			],
+			[
+				"de",
+				"dependant_switches\tstatement"
+			],
+			[
+				"setting",
+				"settings"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"model",
+				"models\tmodule"
+			],
+			[
+				"retur",
+				"return_value"
+			],
+			[
+				"con",
+				"concierge_data\tfunction"
+			],
+			[
+				"payment",
+				"payment_card\tstatement"
+			],
+			[
+				"paym",
+				"payment\tstatement"
+			],
+			[
+				"card",
+				"card_details\tparam"
+			],
+			[
+				"pay",
+				"payment_input\tstatement"
+			],
+			[
+				"work",
+				"payment_workflow"
+			],
+			[
+				"payme",
+				"payment_args\tstatement"
+			],
+			[
+				"wo",
+				"WORKFLOW_TYPES\tstatement"
+			],
+			[
+				"ass",
+				"assign_value"
+			],
+			[
+				"auth",
+				"pre_auth_only"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 7566,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cryptotoken.py",
+			"settings":
+			{
+				"buffer_size": 5064,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "diskio.py",
+			"settings":
+			{
+				"buffer_size": 3016,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "storage.py",
+			"settings":
+			{
+				"buffer_size": 2359,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"previou",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"renm",
+				"File: Rename"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"con",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 420.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/vesperporta/workspace/VesperCrypt"
+	],
+	"file_history":
+	[
+		"/Users/vesperporta/workspace/VesperCrypt/venv/lib/python3.6/site-packages/Crypto/Cipher/AES.py",
+		"/Users/vesperporta/workspace/VesperCrypt/venv/lib/python3.6/site-packages/Crypto/Cipher/blockalgo.py",
+		"/Users/vesperporta/workspace/VesperCrypt/password.py",
+		"/Users/vesperporta/workspace/VesperCrypt/test",
+		"/Users/vesperporta/workspace/VesperCrypt/venv/lib/python3.6/site-packages/sqlalchemy/sql/sqltypes.py",
+		"/Users/vesperporta/workspace/VesperCrypt/output/z43mFHdIprCgTFKH6hMVAOJPpPvMw;4ceLTBAtAv:e5NnJFpfkHE2Pki1F5t1Kvo",
+		"/Users/vesperporta/workspace/VesperCrypt/cryptotoken.py",
+		"/Users/vesperporta/workspace/VesperCrypt/data.sqlite",
+		"/Users/vesperporta/workspace/VesperCrypt/example-output/:GI7LmMEaY2V1usGtu;nR:qBghlTTv81prLuMm8llRexVHWAihjmUkP54IDwhlaD",
+		"/Users/vesperporta/workspace/VesperCrypt/storage/hk8bZhzeXIfRjF8ant5299Rzwl1uqNvmvPBNCMcvzI9bD8FAZDrdZk9tTfIKvg8F",
+		"/Users/vesperporta/workspace/VesperCrypt/storage/Bou3RE1J9QBf5qe5SPgcOeNl;qGiIS7JMg6ZyvavO3vecVVgVAeMnEANd7r79gpX",
+		"/Users/vesperporta/workspace/VesperCrypt/storage/:GI7LmMEaY2V1usGtu;nR:qBghlTTv81prLuMm8llRexVHWAihjmUkP54IDwhlaD",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/oScR5xUQvGthlj:FvEv3nlKCCMQIwVA68eBHVWa3xx:URY5EvfJDzg6pYS;grabd",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/rKndmajj3hOCIRYskPIagx9Ogc;x8ICE9zKHNOEevVxX8E4tGTQ4aELn7Zf7JuXp",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/QVRa9K6JdUVbg54cvjmZhgTggmOYdG48IerlJjrK4iriDdM4VHCdogM733ILkTBd",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/cC;:5we5YDxLCvzcxdXCedp9YC5vHzbykGnSoxfyaP8:jZyh6DuKkqt92SovYOG4",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/HE1BCozAWw6a8AL5vKpQWWNHrr3fwWv7Ibvem3emePAkfJ5p;:1Z3oIpSaiJNufC",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/iopptT6Nn9bkdpnLuZjXnFwcIL816A3QDUOR:o2Mgjrze2lEqYkgNPWOJE2HPpMM",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/b2OSaZ1IlI:ViofDBatxa5rEPCISBiecxXJQu8leCouZHFEg4PWTzcv4rr9sLRh8",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/cvN2MIa7nZfWWGQIXaUUo2a:xHlfiwCRBtktuln7:U:W;KHjYtj4pwHaYFSIHuZK",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/boWoDkUX:Lk2EG:Gb:lczhdtyUHO9iK6cGRKehGrBeAWrVUOwacJ9xHEYhem:5Ka",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/2b7zLmUJoDwI8JKlPIiy186pyLE:QkixYmoqgGlyQC2cG2wRBZXygOLCoVhmHsNd",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/:cn2TsqypaUp:IA5QTQK3WJTEXh5FFA6m6fuZ7qU73jPTnwUCRaSIGrTB9Rel3RD",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/;2SZTn7keQVQxcJaN83CMCVdhHPtoB8E8nvEmQ6Q1QidjhLHTzb9eLN:2yfTrWMj",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/;dI3d7ztFYiGMsKZomv17keZp:AfBrIyk8l6FJeBxhOyppu5D88FCcmFFWVwloNq",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/;k13Lr:I5CXiQKxnJiaL:p9OF8aslQ6T45d1D5x56Vv6EXK3RuYv5FakaPzLm:aq",
+		"/Users/vesperporta/workspace/VesperCrypt/storage-written-one-way/;VMMnxrrUFDFQrJS9TyTRr;WZZ657kwh51t6OXvCESN8NigH18bnxRY:E5sekxF1",
+		"/Users/vesperporta/workspace/VesperCrypt/storage/:cafzXXVwzfeiSTBCIYBWZioSKqa8VyhCNIL1;XH:bQv:GoKpC4xer3yHCsRQOaR",
+		"/Users/vesperporta/workspace/VesperCrypt/storage/AuIrnmEURhLnhRnNnWy7QY98jeCCzbt7H7K8QPd7Ir;Vq5N8:24ksc1ERsUvhf;P",
+		"/Users/vesperporta/workspace/rpg/venv/lib/python3.6/site-packages/click/termui.py",
+		"/Users/vesperporta/workspace/VesperCrypt/venv/lib/python3.6/site-packages/sqlalchemy/types.py",
+		"/Users/vesperporta/workspace/VesperCrypt/diskio.py",
+		"/Users/vesperporta/workspace/VesperCrypt/__init__.py",
+		"/Users/vesperporta/workspace/rpg/venv/lib/python3.6/site-packages/click/_winconsole.py",
+		"/Users/vesperporta/workspace/rpg/builtin_data.py",
+		"/Users/vesperporta/workspace/rpg/main.py",
+		"/Users/vesperporta/workspace/rpg/factories.py",
+		"/Users/vesperporta/workspace/rpg/load_data.py",
+		"/Users/vesperporta/workspace/rpg/rpg_util.py",
+		"/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/messagebox.py",
+		"/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/dialog.py",
+		"/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/tix.py",
+		"/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/simpledialog.py",
+		"/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/font.py",
+		"/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/__main__.py",
+		"/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/dnd.py",
+		"/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/scrolledtext.py",
+		"/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/__init__.py",
+		"/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/ttk.py",
+		"/Users/vesperporta/workspace/rpg/venv-pyglet/lib/python3.6/site-packages/matplotlib/backends/_backend_tk.py",
+		"/Users/vesperporta/workspace/rpg/venv-pyglet/lib/python3.6/site-packages/sympy/printing/ccode.py",
+		"/Users/vesperporta/workspace/rpg/venv-pyglet/lib/python3.6/site-packages/future/moves/tkinter/filedialog.py",
+		"/Users/vesperporta/Documents/notes/AKB48 - Wikipedia.pdf",
+		"/Users/vesperporta/Documents/notes/FormT1_180614.pdf",
+		"/Users/vesperporta/Documents/notes/Facebook.pdf",
+		"/Users/vesperporta/workspace/rpg/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/__init__.py",
+		"/Users/vesperporta/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/vesperporta/workspace/rpg/datasheets/effects.csv",
+		"/Users/vesperporta/workspace/rpg/rpg/names/japanese-cleaned.txt",
+		"/Users/vesperporta/workspace/rpg/rpg/names/chinese.txt",
+		"/Users/vesperporta/workspace/rpg/rpg/names/russian-surenames.txt",
+		"/Users/vesperporta/workspace/rpg/rpg/names/hindi-surenames.txt",
+		"/Users/vesperporta/workspace/rpg/rpg/names/japanese-surnames.txt",
+		"/Users/vesperporta/workspace/rpg/rpg/names/chinese-surnames.txt",
+		"/Users/vesperporta/workspace/rpg/rpg/names/korean-surnames.txt",
+		"/Users/vesperporta/workspace/rpg/rpg/names/russian.txt",
+		"/Users/vesperporta/workspace/rpg/rpg/names/hindi.txt",
+		"/Users/vesperporta/workspace/rpg/rpg/names/korean.txt",
+		"/Users/vesperporta/workspace/rpg/rpg/names/japanese.txt",
+		"/Users/vesperporta/Documents/psychic/Appendix/Submitted from Web - 05_06_2019 10_46 [Enquiry_ 190605-000029] 2019-06-06T10_04_40+01_00.eml",
+		"/Users/vesperporta/Documents/sky_backupsetting.conf",
+		"/Users/vesperporta/workspace/rpg/rpg/notes/functions.txt",
+		"/Users/vesperporta/Documents/p_2.txt",
+		"/Users/vesperporta/workspace/insto-scrape/notes/instagram api authentication.txt",
+		"/Users/vesperporta/Documents/notes/1267 - toilet at Nero",
+		"/Users/vesperporta/workspace/password/password.py",
+		"/Users/vesperporta/Documents/p.txt",
+		"/Volumes/NO NAME/notes.txt",
+		"/Users/vesperporta/workspace/rpg/rpg/notes/action frame and functions.txt",
+		"/Users/vesperporta/workspace/ivectorconnect-tools/make_booking.py",
+		"/Volumes/NO NAME/27th April 2019.txt",
+		"/Volumes/NO NAME/28th April 2019.txt",
+		"/Volumes/NO NAME/29th April 2019.txt",
+		"/Users/vesperporta/workspace/rpg/datasheets/edu-further-ratings.csv",
+		"/Users/vesperporta/workspace/rpg/datasheets/disorders.csv",
+		"/Users/vesperporta/workspace/rpg/datasheets/abilities.csv",
+		"/Users/vesperporta/workspace/rpg/datasheets/stats.csv",
+		"/Users/vesperporta/workspace/rpg/datasheets/skills.csv",
+		"/Users/vesperporta/workspace/rpg/datasheets/disciplines.csv",
+		"/Users/vesperporta/Documents/journal from notes.txt",
+		"/Users/vesperporta/workspace/rpg/datasheets/species.csv",
+		"/Users/vesperporta/workspace/rpg/datasheets/companies.csv",
+		"/Users/vesperporta/workspace/rpg/datasheets/damage.csv",
+		"/Users/vesperporta/workspace/rpg/datasheets/human-body.csv",
+		"/Users/vesperporta/workspace/rpg/datasheets/locations.csv",
+		"/Users/vesperporta/workspace/rpg/datasheets/phobias.csv",
+		"/Users/vesperporta/workspace/rpg/rpg/datasheets/character-abilities.csv",
+		"/Users/vesperporta/workspace/rpg/rpg/datasheets/psychology-phobias.csv",
+		"/Users/vesperporta/workspace/rpg/rpg/datasheets/psychology-disorders.csv",
+		"/Users/vesperporta/workspace/rpg/rpg/datasheets/character-discipline.csv",
+		"/Users/vesperporta/workspace/rpg/rpg/datasheets/character-skills.csv",
+		"/Users/vesperporta/workspace/tenplatform-backend/travel/models/hotel.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/travel/models/car_hire.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/tenplatform/mixins.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/travel/commands/car_hire.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/dining/models.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/ibmmc/tests/integration/test_admin_validation.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/ibmmc/models.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/member_profile/models/profile.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/tenplatform/settings.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/.env",
+		"/Users/vesperporta/workspace/tenplatform-backend/travel/views.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/travel/urls.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/travel/serializers.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/travel/filters.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/member_activity/serializers/__init__.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/travel/admin.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/Makefile",
+		"/Users/vesperporta/workspace/tenplatform-backend/dining/documents.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/dining/tests/e2e/test_functional.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/dining/tests/unit/test_serializers.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/ibmmc/tests/integration/test_create_ibm_email_templates_command.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/authentication/views.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/authentication/serializers.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/authentication/models.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/payments/tasks.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/payments/mixins.py",
+		"/Users/vesperporta/workspace/tenplatform-backend/ibmmc/admin.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4966,
+								4966
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1619.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "cryptotoken.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 213.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "diskio.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1068,
+								1068
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "storage.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1971,
+								1971
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "VesperCrypt.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".env",
+				".env"
+			],
+			[
+				"ibmmc/models.py ",
+				"ibmmc/models.py"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"dining/tests/e2e/test_functional.py",
+				"dining/tests/e2e/test_functional.py"
+			],
+			[
+				" dining/documents.py",
+				"dining/documents.py"
+			],
+			[
+				"ibmmc/tests/integration/test_admin_validation.py ",
+				"ibmmc/tests/integration/test_admin_validation.py"
+			],
+			[
+				"ibmmc/tests/integration/test_ibmmc_transact_utils.py",
+				"ibmmc/tests/integration/test_ibmmc_transact_utils.py"
+			],
+			[
+				"tenplatform/urls.py",
+				"tenplatform/urls.py"
+			],
+			[
+				"read",
+				"README.markdown"
+			],
+			[
+				"setting",
+				"tenplatform/settings.py"
+			],
+			[
+				"docker",
+				"docker-compose.yml"
+			],
+			[
+				"dining/tests/integration/test_serializer_hot_table_bookings.py ",
+				"dining/tests/integration/test_serializer_hot_table_bookings.py"
+			],
+			[
+				"dining/tests/e2e/test_hot_table_booking.py",
+				"dining/tests/e2e/test_hot_table_booking.py"
+			],
+			[
+				"dining/serializers.py",
+				"dining/serializers.py"
+			],
+			[
+				"member_events/tests/unit/conftest.py",
+				"member_events/tests/unit/conftest.py"
+			],
+			[
+				"member_events/tests/__init__.py",
+				"member_events/tests/__init__.py"
+			],
+			[
+				"member_events/tests/e2e/test_member_event_serializer_details.py",
+				"member_events/tests/e2e/test_member_event_serializer_details.py"
+			],
+			[
+				"loadho",
+				"dining/management/commands/loadhottabledata.py"
+			],
+			[
+				"load",
+				"dining/management/commands/loadhottabledata.py"
+			],
+			[
+				"mak",
+				"Makefile"
+			],
+			[
+				"travel/tests/e2e/test_flight_booking_ts_and_cs.py",
+				"travel/tests/e2e/test_flight_booking_ts_and_cs.py"
+			],
+			[
+				"rea",
+				"README.markdown"
+			],
+			[
+				"sett",
+				"tenplatform/settings.py"
+			],
+			[
+				"loadtra",
+				"travel/management/commands/loadtraveldata.py"
+			],
+			[
+				"tenplatformfields",
+				"tenplatform/fields.py"
+			],
+			[
+				"setti",
+				"tenplatform/settings.py"
+			],
+			[
+				"0036_sitesettings_switch_concierge_briefing",
+				"site_settings/migrations/0036_sitesettings_switch_concierge_briefing.py"
+			],
+			[
+				"site_settings/migrations/.latest_migration",
+				"site_settings/migrations/.latest_migration"
+			],
+			[
+				"briefing/serializers.py",
+				"briefing/serializers.py"
+			],
+			[
+				"test_concierge_briefing",
+				"briefing/tests/e2e/test_concierge_briefing.py"
+			],
+			[
+				"member_profile/models/profile.py",
+				"member_profile/models/profile.py"
+			],
+			[
+				"briefing/models.py",
+				"briefing/models.py"
+			],
+			[
+				"site_settings/models.py",
+				"site_settings/models.py"
+			],
+			[
+				"briefing/tests/e2e/test_travel_briefing_activity.py",
+				"briefing/tests/e2e/test_travel_briefing_activity.py"
+			],
+			[
+				"ten_maid/tasks.py",
+				"ten_maid/tasks.py"
+			],
+			[
+				"ten_maid/tests/integration/concierge_briefing.py",
+				"ten_maid/tests/integration/concierge_briefing.py"
+			],
+			[
+				"briefing/tests/e2e/test_concierge_briefing.py",
+				"briefing/tests/e2e/test_concierge_briefing.py"
+			],
+			[
+				"briefing/migrations/.latest_migration",
+				"briefing/migrations/.latest_migration"
+			],
+			[
+				"com",
+				"docker-compose.yml"
+			],
+			[
+				"require",
+				"requirements.in"
+			],
+			[
+				"dock",
+				"docker-compose.yml"
+			],
+			[
+				"briefing/migrations/0006_conciergebriefing.py",
+				"briefing/migrations/0006_conciergebriefing.py"
+			],
+			[
+				"site_settings/tests/test_settings.py",
+				"site_settings/tests/test_settings.py"
+			],
+			[
+				"tenplatform/tests/unit/test_django_conf_settings",
+				"tenplatform/tests/unit/test_django_conf_settings.py"
+			],
+			[
+				"entertainment/tests/test_inventory_models",
+				"entertainment/tests/test_inventory_models.py"
+			],
+			[
+				"payments/tests/commands/test_full_card_details_payment.py",
+				"payments/tests/commands/test_full_card_details_payment.py"
+			],
+			[
+				"payments/tests/test_commands.py",
+				"payments/tests/test_commands.py"
+			],
+			[
+				"site_settings/admin.py",
+				"site_settings/admin.py"
+			],
+			[
+				"site_settings/exceptions.py",
+				"site_settings/exceptions.py"
+			],
+			[
+				"sts/e2e/test_travel_briefing_activity.py",
+				"briefing/tests/e2e/test_travel_briefing_activity.py"
+			],
+			[
+				"conf",
+				"visa/tests/conftest.py"
+			],
+			[
+				"con",
+				"conftest.py"
+			],
+			[
+				"c",
+				"conftest.py"
+			],
+			[
+				"briefing/signals.py",
+				"briefing/signals.py"
+			],
+			[
+				"conftest",
+				"conftest.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 60.0,
+		"last_filter": "RpgMovement",
+		"selected_items":
+		[
+			[
+				"RpgMovement",
+				"RpgMovement"
+			],
+			[
+				"create_character_stats",
+				"create_character_stats"
+			],
+			[
+				"create_character_body",
+				"create_character_body"
+			],
+			[
+				"Widget",
+				"Widget"
+			],
+			[
+				"interaction",
+				"Interaction"
+			],
+			[
+				"flight_classes",
+				"show_flight_classes"
+			],
+			[
+				"hottable",
+				"HotTable"
+			],
+			[
+				"hotel sub bookings",
+				"HotelSubBookingSerializer"
+			],
+			[
+				"hotel sub",
+				"hotel_sub_bookings"
+			],
+			[
+				"paymentpro",
+				"PaymentProcessMixin"
+			],
+			[
+				"PaymentProcessMixin",
+				"PaymentProcessMixin"
+			],
+			[
+				"PaymentProcessSerializerMixin",
+				"PaymentProcessSerializerMixin"
+			],
+			[
+				"PaymentProcess",
+				"PaymentProcessSerializerMixin"
+			],
+			[
+				"MemberEventBooking",
+				"MemberEventBooking"
+			],
+			[
+				"EntertainmentBooking",
+				"EntertainmentBooking"
+			],
+			[
+				"HotTableBooking",
+				"HotTableBooking"
+			],
+			[
+				"payment",
+				"Payment"
+			],
+			[
+				"_complete_email_placeholders",
+				"_complete_email_placeholders"
+			],
+			[
+				"FlightSubBooking",
+				"FlightSubBooking"
+			],
+			[
+				"context",
+				"context"
+			],
+			[
+				"send_create_concierge_briefing_olr",
+				"send_create_concierge_briefing_olr"
+			],
+			[
+				"hottablebookingfa",
+				"HotTableBookingFactory"
+			],
+			[
+				"HotTableBookingfa",
+				"HotTableBookingFactory"
+			],
+			[
+				"ConciergeBriefing",
+				"ConciergeBriefing"
+			],
+			[
+				"concierge",
+				"ConciergeBriefing"
+			],
+			[
+				"member",
+				"MemberProfile"
+			],
+			[
+				"PerformanceFactory",
+				"PerformanceFactory"
+			],
+			[
+				"MemberEventDate",
+				"MemberEventDateFactory"
+			],
+			[
+				"MemberEventSubscriptionF",
+				"MemberEventSubscriptionFactory"
+			],
+			[
+				"MemberBenefitWaitingListFactory",
+				"MemberBenefitWaitingListFactory"
+			],
+			[
+				"waitlistfac",
+				"MemberBenefitWaitingListFactory"
+			],
+			[
+				"member_event",
+				"member_event"
+			],
+			[
+				"test_serializers_return_expected_keys",
+				"test_serializers_return_expected_keys"
+			],
+			[
+				"patch_member_event_date_methods",
+				"patch_member_event_date_methods"
+			],
+			[
+				"SiteSettings",
+				"SiteSettings"
+			],
+			[
+				"site_settings",
+				"site_settings"
+			],
+			[
+				"MemberEventDateSerializer",
+				"MemberEventDateSerializer"
+			],
+			[
+				"MemberEvent",
+				"MemberEventSerializer"
+			],
+			[
+				"MemberEventBookingSerializer",
+				"MemberEventBookingSerializer"
+			],
+			[
+				"resturantfac",
+				"RestaurantFactory"
+			],
+			[
+				"site",
+				"SiteSettingsAdmin"
+			],
+			[
+				"HotTableBookingSerializer",
+				"HotTableBookingSerializer"
+			],
+			[
+				"test_concierge_briefing_creation",
+				"test_concierge_briefing_creation"
+			],
+			[
+				"FlightSubBookingFunctionalTestCase",
+				"FlightSubBookingFunctionalTestCase"
+			],
+			[
+				"sitesetting",
+				"SiteSettings"
+			],
+			[
+				"Country",
+				"Country"
+			],
+			[
+				"sites",
+				"SiteSettings"
+			],
+			[
+				"ProfileRelatedPermsMixin",
+				"ProfileRelatedPermsMixin"
+			],
+			[
+				"CorporateScheme",
+				"CorporateScheme"
+			],
+			[
+				"ten_maid_corporate_scheme",
+				"ten_maid_corporate_scheme"
+			],
+			[
+				"ConciergeBriefingSerializer",
+				"ConciergeBriefingSerializer"
+			],
+			[
+				"test_all_switches_exposed",
+				"test_all_switches_exposed"
+			],
+			[
+				"country",
+				"Country"
+			],
+			[
+				"memberprofile",
+				"MemberProfile"
+			],
+			[
+				"memberpro",
+				"MemberProfile"
+			],
+			[
+				"_send_create_update_member_to_ten_maid",
+				"_send_create_update_member_to_ten_maid"
+			],
+			[
+				"ten_maid_client",
+				"ten_maid_client"
+			],
+			[
+				"test_full_card_details_payment_failure_handled",
+				"test_full_card_details_payment_failure_handled"
+			],
+			[
+				"_create_ingenico_payment",
+				"_create_ingenico_payment"
+			],
+			[
+				"paymentcard",
+				"PaymentCard"
+			],
+			[
+				"_check_required_card_details",
+				"_check_required_card_details"
+			],
+			[
+				"test_create_full_card_details_no_card_holder_name_payment",
+				"test_create_full_card_details_no_card_holder_name_payment"
+			]
+		],
+		"width": 569.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
